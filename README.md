@@ -11,4 +11,4 @@
 - [x] Checkpoint
 - [x] Trampolim
 - [ ] Power-ups
-- [ ] Novo Inimigo
+- [x] Novo Inimigo
